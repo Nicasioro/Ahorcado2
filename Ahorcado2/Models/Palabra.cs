@@ -1,5 +1,5 @@
 public  class Palabra {
-    public  string Texto {get;private set;}
-    public  int difficultad {get;private set;}
+    public  string Texto {get; set;}
+    public  int Dificultad {get; set;}
 
 }
